@@ -57,7 +57,6 @@ npm install
 ```bash
 npm run dev
 ```
-
 ## Usage
 
 1. Open your browser and navigate to `http://localhost:5173`
