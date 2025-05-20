@@ -57,8 +57,7 @@ npm install
 ```bash
 npm run dev
 ```
-## Usage
-
+## Usage2
 1. Open your browser and navigate to `http://localhost:5173`
 2. Enter your text in the input field
 3. Click "Check Grammar" to analyze your text
@@ -67,9 +66,7 @@ npm run dev
    - Corrected text
    - Grammar score
    - Explanation of corrections
-
 ## Technologies Used
-
 - Frontend:
   - React
   - Vite
